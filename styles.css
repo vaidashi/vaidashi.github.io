@@ -2,7 +2,8 @@ body {
   color: black;
   font-size: 16px;
   font: inherit;
-  background-image: url("struggling.png");
+  background: url("struggling.png") no-repeat center center fixed;
+  /*background-image: url("struggling.png");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;*/
 }

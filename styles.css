@@ -3,5 +3,6 @@ body {
   font-size: 16px;
   font: inherit;
   background-image: url("struggling.png");
+  background-size: cover;
   background-repeat: no-repeat;
 }
